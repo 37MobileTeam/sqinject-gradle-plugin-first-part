@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sqinject-gradle-plugin</string>
+
+    <string name="str_sq">sq</string>
+
+    <string name="str_add">新增加资源</string>
+</resources>
